@@ -1,0 +1,27 @@
+##################################################
+The link to Pi 3 B+ Rasberry Pi on amazon:
+https://www.amazon.de/ABOX-Raspberry-Ultimatives-Starterkit-aus-Schaltnetzteil/dp/B07DDCRFP6/ref=sr_1_1_sspa?s=computers&ie=UTF8&qid=1535190964&sr=1-1-spons&keywords=raspberry+pi+3+b%2B&psc=1
+###################################################
+Useful Books for Python Learning:
+
+Name of the book: Automate The Boring Stuff With Python
+Author: Al Sweigart
+
+Name of the book: Thinking in Python
+Author: Bruce Eckel
+
+Name of the book: Head First Design Paterrns
+Author: O'Rielly
+
+#################################################
+Useful books about learning Raspberry Pi:
+
+Book name: Roboter-Autos mit dem Raspberry Pi
+Author: Ingmar Stapel
+
+#########################################################
+Youtube channels for learning Python: 
+
+channel name: Sentdex
+channel name: Corey Schafer
+#################################################
