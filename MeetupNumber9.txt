@@ -19,6 +19,12 @@ Useful books about learning Raspberry Pi:
 Book name: Roboter-Autos mit dem Raspberry Pi
 Author: Ingmar Stapel
 
+#############################################
+Useful book about gapminder:
+
+book name: Factfulness
+author: Hans Rozelin
+
 #########################################################
 Youtube channels for learning Python: 
 
